@@ -1,0 +1,7 @@
+Input: <s1> the children must be practised well to this or theyll neer dot <s2> i will teach the children their behaviors and i will be like a jackanapes also to burn the knight with my taber <s1> that will be excellent ill go and buy them masks 
+Reference:  thank you so much! I am glad to see you just as excited. 
+Predict: I am glad you look happy about it.
+
+Input: <s1> ill see what i can do <s2> but speedily <s1> i will about it straight no longer staying but to give the mother notice of my affair i humbly thank you commend me to my brother soon at night ill send him certain word of my success 
+Reference:  you are most welcome. I am happy seeing you so happy. 
+Predict: I am glad you are happy about this.
